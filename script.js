@@ -71,7 +71,7 @@ $(".btn").click(function(){
 
     checkAnswer(userClickedPattern.length - 1);
 
-    var sound = new Audio("sounds/" + userChosenColour + ".mp3");
+    var sound = new Audio("/sounds/" + userChosenColour + ".mp3");
     sound.play();
 })
 
