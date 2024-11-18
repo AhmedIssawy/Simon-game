@@ -32,15 +32,6 @@ Open the index.html file in your web browser.
 ## 🌐 Play Online
 You can also play the Simon Game online! Check it out here.
 
-## 📂 File Structure
-Copy code
-├── index.html
-
-├── styles.css
-
-├── game.js
-
-└── README.md
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork this repository, make changes, and submit a pull request.
