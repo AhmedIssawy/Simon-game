@@ -35,8 +35,11 @@ You can also play the Simon Game online! Check it out here.
 ## 📂 File Structure
 Copy code
 ├── index.html
+
 ├── styles.css
+
 ├── game.js
+
 └── README.md
 
 ## 🤝 Contributing
