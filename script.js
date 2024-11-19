@@ -13,15 +13,11 @@ function checkAnswer(currentLevel) {
         console.log("wrong");
 
         // Playing wrong sound
-        var wrongSound = new Audio ("sounds/wrong.mp3");
+        var wrongSound = new Audio ("https://raw.githubusercontent.com/username/repository/branch/sounds/wrong.mp3");
         wrongSound.play();
 
-        $(document).ready(function(){
-            $("body").addClass("game-over")
-        })
-        setTimeout(function(){
-            $("body").removeClass("game-over");
-        }, 200)
+        $("body").addClass("game-over");
+        setTimeout(() => $("body").removeClass("game-over"), 200);
 
         $("h1").text("Game Over, Press Any Key to Restart");
         startOver();       
