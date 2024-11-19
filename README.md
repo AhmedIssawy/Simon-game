@@ -1,7 +1,8 @@
 ## Simon Game
 A simple, fun memory game built using HTML, CSS, and JavaScript. Test your memory skills by repeating sequences of colors in the correct order. With each level, the challenge gets tougher!
 
-![image](https://github.com/user-attachments/assets/f220b14e-6118-46be-961c-85c4a3eaecd7)
+![image](https://github.com/user-attachments/assets/3335b270-ec1e-4665-a8bb-e35363e07710)
+
 
 
 ## 🎮 How to Play
